@@ -1,0 +1,60 @@
+2020-12-20 20:37:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 20:56:08 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:40:19 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:45:21 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:46:23 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:46:31 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:50:45 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:56:11 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:56:27 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:57:05 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:58:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-20 22:58:53 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 21:17:54 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 21:18:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 21:18:57 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 21:24:37 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 21:25:14 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 21:25:22 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 23:03:19 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
+2020-12-21 23:06:10 jdbc[9]: exception
+org.h2.jdbc.JdbcSQLException: Table "TEST_EXECUTE_TABLE" already exists; SQL statement:
+CREATE TABLE test_execute_table(ID INT PRIMARY KEY); [42101-197]
